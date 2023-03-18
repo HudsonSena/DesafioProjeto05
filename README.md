@@ -17,7 +17,7 @@ Project building from "Rocktseat" classes.
 - image edits
 - responsive
 - transitions
-- access with various screen sizes: smartphone, tablet, ipad, desktop, notebook
+- access with various screen sizes: smartphone, tablet, ipad, desktop, notebook and others
 
 # Contact
 
